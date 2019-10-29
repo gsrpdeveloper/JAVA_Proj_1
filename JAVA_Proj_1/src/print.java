@@ -3,7 +3,12 @@ public class print {
 
 	public print() {
 		// TODO Auto-generated constructor stub
-		System.out.println("welcome to my new javaproject -1");
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("welcome to my new java_pro -1");
+
 	}
 
 }
